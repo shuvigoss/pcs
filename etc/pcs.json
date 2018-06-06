@@ -1,0 +1,19 @@
+{
+  "hosts": [
+    {
+      "host": "192.168.116.86",
+      "username": "root",
+      "password": "intel@123",
+      "port": 22
+    },
+    {
+      "host": "192.168.116.87"
+    },
+    {
+      "host": "192.168.116.88"
+    }
+  ],
+  "globalPwd": "intel@123",
+  "globalName": "root",
+  "globalPort": 22
+}
